@@ -1,5 +1,8 @@
 # Starbucks-Customers-Response-Prediction
 
+## Medium Blog Post
+https://medium.com/@yaser.ahmad.jaber/predicting-starbucks-customers-response-to-offers-773232afa58a
+
 ## Project Overview
 The Starbucks Capstone Challenge is part of Udacity's Data Science Nanodegree program. This project explores transaction, demographic, and offer data from Starbucks' mobile app to predict customer response to promotional offers. The goal is to understand customer behavior and to optimize marketing strategies by sending targeted offers to customers most likely to respond.
 
