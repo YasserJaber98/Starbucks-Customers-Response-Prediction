@@ -18,6 +18,27 @@ profile.json - demographic data for each customer.
 
 transcript.json - records for transactions, offers received, offers viewed, and offers completed.
 
+## Installation
+This project requires Python 3.10 and the following Python libraries installed:
+
+NumPy
+
+pandas
+
+Matplotlib
+
+Seaborn
+
+scikit-learn
+
+XGBoost
+
+## File Descriptions
+Starbucks_Capstone_notebook.ipynb: Jupyter notebook containing the data analysis and modeling.
+
+data/: Folder containing the dataset files.
+
+
 ## Evaluation Metrics
 The project focuses on the recall score as the primary evaluation metric, emphasizing the model's ability to correctly identify as many actual positive cases (offer completions) as possible.
 
@@ -26,3 +47,6 @@ Data preprocessing steps included handling missing values, encoding categorical 
 
 ## Data Modeling
 An XGBoost classifier was trained to predict offer completion with a focus on maximizing the recall score. The model achieved an 86% recall score, indicating its effectiveness in identifying customers likely to respond to offers.
+
+## Licensing, Authors, Acknowledgements
+This project was completed as part of the Udacity Data Science Nanodegree program. The data was provided by Starbucks. Feel free to use the code as you please with attribution to the original author.
