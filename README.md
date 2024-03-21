@@ -38,6 +38,12 @@ Starbucks_Capstone_notebook.ipynb: Jupyter notebook containing the data analysis
 
 data/: Folder containing the dataset files.
 
+data/portfolio.json - containing offer ids and metadata (duration, type, etc.).
+
+data/profile.json - demographic data for each customer.
+
+data/transcript.json - records for transactions, offers received, offers viewed, and offers completed.
+
 
 ## Evaluation Metrics
 The project focuses on the recall score as the primary evaluation metric, emphasizing the model's ability to correctly identify as many actual positive cases (offer completions) as possible.
